@@ -1,0 +1,5 @@
+Proceso seleccionado: Gestión de inventario de equipos informáticos.
+
+Actualmente el control de equipos se realiza de forma manual mediante hojas de cálculo y registros dispersos. El inventario incluye información de cada equipo, como número de serie, marca, modelo, estado y usuario asignado. Además, existen movimientos frecuentes como asignaciones a usuarios, devoluciones al área de sistemas y envíos a reparación. También se administra información de los usuarios, incluyendo nombre, código de usuario, cargo y área de trabajo.
+
+Este proceso es utilizado por el personal de sistemas y administración, quienes deben actualizar constantemente la información debido a cambios repentinos. Actualmente se gestionan cientos de registros entre equipos, usuarios y movimientos. La búsqueda de información puede tardar varios minutos cuando se requiere localizar el historial de un equipo o verificar a quién está asignado. El objetivo es optimizar el proceso para reducir tiempos de búsqueda, mejorar la organización de los datos y mantener un control actualizado del inventario.

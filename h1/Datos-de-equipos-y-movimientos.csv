@@ -1,0 +1,21 @@
+ID,Serie,Marca,Modelo,Usuario,CodigoUsuario,Area,Movimiento,Fecha
+1,HP001,HP,ProBook 450,Juan Perez,U001,Contabilidad,Asignacion,2026-10-01
+2,HP002,HP,ProBook 450,Maria Flores,U002,RRHH,Asignacion,2026-10-02
+3,DL001,Dell,Latitude 5420,Carlos Rojas,U003,Sistemas,Asignacion,2026-10-03
+4,LN001,Lenovo,ThinkPad E14,Ana Vargas,U004,Compras,Asignacion,2026-10-03
+5,HP001,HP,ProBook 450,Juan Perez,U001,Contabilidad,Devolucion,2026-10-10
+6,HP001,HP,ProBook 450,, ,Sistemas,Recepcion,2026-10-10
+7,HP001,HP,ProBook 450,, ,Sistemas,Reparacion,2026-10-11
+8,DL002,Dell,Latitude 5430,Pedro Soto,U005,Logistica,Asignacion,2026-10-12
+9,DL003,Dell,Latitude 5430,Jose Ramos,U006,Finanzas,Asignacion,2026-10-13
+10,LN002,Lenovo,ThinkPad E15,Rosa Quispe,U007,RRHH,Asignacion,2026-10-13
+11,HP003,HP,EliteBook 840,Luis Flores,U008,Sistemas,Asignacion,2026-10-14
+12,HP004,HP,EliteBook 840,Mario Nina,U009,Compras,Asignacion,2026-10-15
+13,DL001,Dell,Latitude 5420,Carlos Rojas,U003,Sistemas,Devolucion,2026-10-17
+14,DL001,Dell,Latitude 5420,, ,Sistemas,Reparacion,2026-10-17
+15,LN003,Lenovo,ThinkPad T14,Paola Rojas,U010,Logistica,Asignacion,2026-10-18
+16,HP005,HP,ProBook 450,David Quispe,U011,Sistemas,Asignacion,2026-10-19
+17,LN002,Lenovo,ThinkPad E15,Rosa Quispe,U007,RRHH,Devolucion,2026-10-20
+18,LN002,Lenovo,ThinkPad E15,, ,Sistemas,Recepcion,2026-10-20
+19,HP001,HP,ProBook 450,Cesar Lopez,U012,Finanzas,Reasignacion,2026-10-21
+20,DL004,Dell,Latitude 5440,Lucia Perez,U013,Gerencia,Asignacion,2026-10-22
