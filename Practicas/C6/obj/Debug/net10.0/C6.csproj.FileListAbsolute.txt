@@ -1,0 +1,15 @@
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\bin\Debug\net10.0\C6.exe
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\bin\Debug\net10.0\C6.deps.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\bin\Debug\net10.0\C6.runtimeconfig.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\bin\Debug\net10.0\C6.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\bin\Debug\net10.0\C6.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.AssemblyInfoInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.AssemblyInfo.cs
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.csproj.CoreCompileInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.sourcelink.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\refint\C6.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\C6.genruntimeconfig.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Practicas\C6\obj\Debug\net10.0\ref\C6.dll
