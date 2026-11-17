@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj": {}
+    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj": {
+    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj",
+        "projectUniqueName": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj",
         "projectName": "C4",
-        "projectPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj",
+        "projectPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\C4.csproj",
         "packagesPath": "C:\\Users\\DABAS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\obj\\",
+        "outputPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\AnalisisAlgoritmos\\Practicas\\C4\\C4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DABAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
