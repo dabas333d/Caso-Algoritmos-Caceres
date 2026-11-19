@@ -26,47 +26,61 @@ En períodos de alta actividad se manejan aproximadamente:
 2. OPERACIONES QUE REALIZA EL SISTEMA
 
 BUSCAR EQUIPO POR CÓDIGO
+
     Ejemplo:
    - Buscar EQ-12548
+
     Objetivo:
    - Encontrar rápidamente un equipo específico.
 
 REGISTRAR NUEVO EQUIPO
+
     Ejemplo:
    - Insertar nuevo equipo Lenovo
+
     Objetivo:
    - Agregar un nuevo registro al inventario.
 
 ASIGNAR EQUIPO A USUARIO
+
     Ejemplo:
    - Asignar laptop a Juan Pérez
+
     Objetivo:
    - Actualizar la información del propietario actual.
 
 REGISTRAR MOVIMIENTO
+
     Ejemplo:
    - Equipo pasa de Soporte a Finanzas
+
     Objetivo:
    - Guardar cambios de ubicación o responsable.
 
 MODIFICAR INFORMACIÓN
+
     Ejemplo:
    - Cambiar estado a Mantenimiento
+
     Objetivo:
    - Actualizar datos existentes.
 
 ELIMINAR EQUIPO
+
     Ejemplo:
    - Dar de baja un equipo
+
     Objetivo:
    - Retirar equipos del inventario.
 
 GENERAR REPORTES
+
     Ejemplos:
    - Equipos por usuario
    - Equipos por área
    - Equipos en mantenimiento
    - Equipos dados de baja
+   
     Objetivo:
    - Recorrer todos los registros y agrupar información.
 
