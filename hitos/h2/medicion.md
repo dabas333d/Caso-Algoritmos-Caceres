@@ -29,6 +29,7 @@ SortedSet<Equipo>
 Esta estructura está implementada mediante un árbol Rojo-Negro (Red-Black Tree), que mantiene el balance automáticamente y evita la degeneración del árbol.
 
 3. COSTOS TEORICOS
+
 | Operación | List | SortedSet |
 |------------|------------|------------|
 | Buscar | O(n) | O(log n) |
@@ -36,6 +37,7 @@ Esta estructura está implementada mediante un árbol Rojo-Negro (Red-Black Tree
 | Eliminar | O(n) | O(log n) |
 
 4. DISEÑO DE EXPERIMENTO
+
 Se comparará el tiempo de búsqueda de equipos utilizando las dos estructuras de datos.
 
 ### Implementación ingenua
@@ -47,6 +49,7 @@ Se comparará el tiempo de búsqueda de equipos utilizando las dos estructuras d
 - Método de búsqueda: búsqueda en árbol balanceado.
 
 5. TAMAÑO DE PRUEBA
+
 Se realizarán mediciones con las siguientes cantidades de registros:
 - 100 equipos
 - 500 equipos
@@ -56,6 +59,7 @@ Se realizarán mediciones con las siguientes cantidades de registros:
 Estos tamaños representan escenarios progresivamente más cercanos al volumen real del inventario administrado.
 
 6. METRICA A REGISTRAR
+
 Se medirá:
 - Tiempo de búsqueda.
 - Cantidad de registros procesados.
@@ -63,6 +67,7 @@ Se medirá:
 Las mediciones se realizarán utilizando la clase `Stopwatch` de C#.
 
 7. HIPOTESIS
+
 Se espera que:
 - La estructura `List<Equipo>` incremente su tiempo de búsqueda de forma proporcional al crecimiento de los registros.
 - La estructura `SortedSet<Equipo>` mantenga tiempos significativamente menores gracias a la complejidad O(log n).
