@@ -1,4 +1,4 @@
-David Quispe Flores
+David Fernando Caceres Mamani
 
 MEDICION
 
