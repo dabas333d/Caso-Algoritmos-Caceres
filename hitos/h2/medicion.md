@@ -1,74 +1,40 @@
-DISEÑO DE LA MEDICIÓN
-1. PROCESO SELECCIONADO
+MEDICION EXPERIMIENTAL
 
-El proceso que se busca optimizar corresponde a la gestión de inventario de equipos tecnológicos asignados a usuarios. Actualmente se realizan búsquedas frecuentes de equipos mediante código de inventario, número de serie o usuario asignado.
+PROBLEMA
 
-    Las operaciones más comunes son:
-- Buscar un equipo.
-- Registrar un nuevo equipo.
-- Actualizar asignaciones.
-- Registrar movimientos de transferencia o devolución.
-- Generar reportes.
-## ¿Necesito orden o solo búsqueda?
-Para este caso, la operación predominante es la búsqueda de equipos específicos mediante una clave única (código o número de serie). Aunque los datos pueden mostrarse ordenados en reportes, el principal requerimiento es encontrar registros de manera rápida.
+Búsqueda de computadoras mediante código de inventario dentro de un sistema de gestión de aproximadamente 5000 equipos.
 
-2. ESTRUCTURAS COMPARADAS
+ESTRUCTRUCTURAS COMPARADAS
 
-### Solución ingenua
-Se utilizará una colección tipo:
-```csharp
-List<Equipo>
-```
-La búsqueda se realiza recorriendo cada elemento hasta encontrar el registro solicitado.
+SOLUCION INGENUA
 
-### Solución adecuada
-Se utilizará:
-```csharp
-SortedSet<Equipo>
-```
-Esta estructura está implementada mediante un árbol Rojo-Negro (Red-Black Tree), que mantiene el balance automáticamente y evita la degeneración del árbol.
+List utilizando búsqueda secuencial mediante Contains().
 
-3. COSTOS TEORICOS
+SOLUCION ADECUADA
 
-| Operación | List | SortedSet |
-|------------|------------|------------|
-| Buscar | O(n) | O(log n) |
-| Insertar | O(1) | O(log n) |
-| Eliminar | O(n) | O(log n) |
+HashSet utilizando búsqueda por tabla hash mediante Contains().
 
-4. DISEÑO DE EXPERIMENTO
+PROTOCOLO
 
-Se comparará el tiempo de búsqueda de equipos utilizando las dos estructuras de datos.
+1. Se realizó una ejecución de calentamiento antes de medir.
+2. Cada prueba se repitió tres veces.
+3. Se calculó el tiempo promedio.
+4. Los tamaños de entrada se duplicaron en cada medición.
 
-### Implementación ingenua
-- Estructura: List<Equipo>
-- Método de búsqueda: recorrido secuencial.
+RESULTADOS
 
-### Implementación adecuada
-- Estructura: SortedSet<Equipo>
-- Método de búsqueda: búsqueda en árbol balanceado.
+| Tamaño | Lista (ms) | Incremento | HashSet (ms) | Incremento |
+| --- | --- | --- | --- | --- |
+| 1000 | 0,647 | \- | 0,023 | \- |
+| 2000 | 0,991 | x1,53 | 0,013 | x0,57 |
+| 4000 | 2,260 | x2,28 | 0,014 | x1,08 |
+| 8000 | 7,896 | x3,49 | 0,022 | x1,57 |
 
-5. TAMAÑO DE PRUEBA
+CONCLUSION
 
-Se realizarán mediciones con las siguientes cantidades de registros:
-- 100 equipos
-- 500 equipos
-- 1000 equipos
-- 2500 equipos
-- 5000 equipos
-Estos tamaños representan escenarios progresivamente más cercanos al volumen real del inventario administrado.
+Los resultados muestran que el tiempo de búsqueda en la lista aumenta conforme crece la cantidad de computadoras almacenadas. Aunque existen pequeñas variaciones debido al ruido del sistema operativo, la memoria y otros procesos en ejecución, la tendencia general coincide con el comportamiento esperado de una complejidad O(n).
 
-6. METRICA A REGISTRAR
+Por otro lado, HashSet mantiene tiempos muy bajos y relativamente estables incluso cuando el tamaño de los datos se duplica. Esto coincide con el comportamiento esperado de una estructura hash, cuya búsqueda tiene complejidad promedio O(1).
 
-Se medirá:
-- Tiempo de búsqueda.
-- Cantidad de registros procesados.
-- Comportamiento de la estructura al aumentar el tamaño de los datos.
-Las mediciones se realizarán utilizando la clase `Stopwatch` de C#.
+Para un inventario con miles de computadoras, HashSet resulta más eficiente para realizar búsquedas frecuentes por código de inventario.
 
-7. HIPOTESIS
-
-Se espera que:
-- La estructura `List<Equipo>` incremente su tiempo de búsqueda de forma proporcional al crecimiento de los registros.
-- La estructura `SortedSet<Equipo>` mantenga tiempos significativamente menores gracias a la complejidad O(log n).
-- La diferencia entre ambas soluciones sea más evidente a partir de 1000 registros.

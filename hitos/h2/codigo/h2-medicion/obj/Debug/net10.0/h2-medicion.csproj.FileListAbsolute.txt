@@ -1,0 +1,15 @@
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\bin\Debug\net10.0\h2-medicion.exe
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\bin\Debug\net10.0\h2-medicion.deps.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\bin\Debug\net10.0\h2-medicion.runtimeconfig.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\bin\Debug\net10.0\h2-medicion.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\bin\Debug\net10.0\h2-medicion.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.AssemblyInfoInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.AssemblyInfo.cs
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.csproj.CoreCompileInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.sourcelink.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\refint\h2-medicion.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\h2-medicion.genruntimeconfig.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h2\codigo\h2-medicion\obj\Debug\net10.0\ref\h2-medicion.dll

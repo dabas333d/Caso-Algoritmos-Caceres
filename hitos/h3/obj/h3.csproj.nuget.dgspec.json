@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj": {}
+    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj": {
+    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj",
+        "projectUniqueName": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj",
         "projectName": "h3",
-        "projectPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj",
+        "projectPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\h3.csproj",
         "packagesPath": "C:\\Users\\DABAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\obj\\",
+        "outputPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\hitos\\h3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DABAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
