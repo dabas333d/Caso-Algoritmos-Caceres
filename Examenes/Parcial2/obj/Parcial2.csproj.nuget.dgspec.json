@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj": {}
+    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj": {
+    "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj",
+        "projectUniqueName": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj",
         "projectName": "Parcial2",
-        "projectPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj",
+        "projectPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\Parcial2.csproj",
         "packagesPath": "C:\\Users\\DABAS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\obj\\",
+        "outputPath": "C:\\Users\\DABAS\\Documents\\UAB\\Analisis de Algoritmos\\Caso-Algoritmos-Caceres\\Examenes\\Parcial2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DABAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

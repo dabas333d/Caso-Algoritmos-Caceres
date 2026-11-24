@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("h2-medicion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3687bc3b8e1dc783021efe854f8199faf9dd996")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f0502027972674f3dca2bfc6c2a250b0977f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("h2-medicion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("h2-medicion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
