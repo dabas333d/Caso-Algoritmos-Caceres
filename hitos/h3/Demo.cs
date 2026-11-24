@@ -6,47 +6,69 @@ public static class Demo
 {
     public static void Comparar()
     {
-        Console.WriteLine("H3 - Inventario de Computadoras");
+        Console.WriteLine("H3 - Renovacion de Computadoras");
         Console.WriteLine();
 
         Console.WriteLine(
-            $"{"Tamaño",8} {"Voraz (ms)",15} {"Fuerza Bruta (ms)",20}");
+            $"{"Equipos",10} {"Dinamica(ms)",15} {"FuerzaBruta(ms)",18} {"Resultado"}");
 
-        foreach (int n in new[] { 100, 500, 1000, 5000 })
+        foreach (int n in new[] { 10, 12, 14, 16 })
         {
-            bool[] inventario = GenerarInventario(n);
+            var equipos = GenerarEquipos(n);
 
-            double tv = Medir(() =>
-                InventarioVoraz.BuscarDisponible(inventario));
+            int presupuesto = n * 10;
 
-            double tf = Medir(() =>
-                InventarioFuerzaBruta.BuscarDisponible(inventario));
+            int dinamica = 0;
+            int fuerzaBruta = 0;
+
+            double td = Promedio(() =>
+                dinamica =
+                    RenovacionDinamica
+                        .Resolver(
+                            equipos,
+                            presupuesto));
+
+            double tf = Promedio(() =>
+                fuerzaBruta =
+                    RenovacionFuerzaBruta
+                        .Resolver(
+                            equipos,
+                            presupuesto));
 
             Console.WriteLine(
-                $"{n,8} {tv,15:0.000} {tf,20:0.000}");
+                $"{n,10} {td,15:0.000} {tf,18:0.000} {(dinamica == fuerzaBruta ? "OK" : "ERROR")}");
         }
     }
 
-    private static bool[] GenerarInventario(int cantidad)
+    private static Computadora[] GenerarEquipos(int cantidad)
     {
-        bool[] equipos = new bool[cantidad];
+        var rnd = new Random(cantidad);
 
-        for (int i = 0; i < cantidad; i++)
-            equipos[i] = false;
-
-        equipos[0] = true;
-
-        return equipos;
+        return Enumerable
+            .Range(0, cantidad)
+            .Select(_ => new Computadora(
+                rnd.Next(5, 20),
+                rnd.Next(10, 100)))
+            .ToArray();
     }
 
-    private static double Medir(Action accion)
+    private static double Promedio(Action accion)
     {
-        var sw = Stopwatch.StartNew();
-
         accion();
 
-        sw.Stop();
+        double suma = 0;
 
-        return sw.Elapsed.TotalMilliseconds;
+        for (int i = 0; i < 3; i++)
+        {
+            var sw = Stopwatch.StartNew();
+
+            accion();
+
+            sw.Stop();
+
+            suma += sw.Elapsed.TotalMilliseconds;
+        }
+
+        return suma / 3;
     }
 }

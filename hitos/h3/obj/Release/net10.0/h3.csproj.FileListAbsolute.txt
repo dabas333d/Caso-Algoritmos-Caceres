@@ -1,0 +1,15 @@
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\bin\Release\net10.0\h3.exe
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\bin\Release\net10.0\h3.deps.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\bin\Release\net10.0\h3.runtimeconfig.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\bin\Release\net10.0\h3.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\bin\Release\net10.0\h3.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.AssemblyInfoInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.AssemblyInfo.cs
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.csproj.CoreCompileInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.sourcelink.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\refint\h3.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\h3.genruntimeconfig.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\hitos\h3\obj\Release\net10.0\ref\h3.dll
