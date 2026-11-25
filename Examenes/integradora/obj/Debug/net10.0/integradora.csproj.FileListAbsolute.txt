@@ -1,0 +1,15 @@
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.AssemblyInfoInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.AssemblyInfo.cs
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.csproj.CoreCompileInputs.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.sourcelink.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\bin\Debug\net10.0\integradora.exe
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\bin\Debug\net10.0\integradora.deps.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\bin\Debug\net10.0\integradora.runtimeconfig.json
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\bin\Debug\net10.0\integradora.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\bin\Debug\net10.0\integradora.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\refint\integradora.dll
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.pdb
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\integradora.genruntimeconfig.cache
+C:\Users\DABAS\Documents\UAB\Analisis de Algoritmos\Caso-Algoritmos-Caceres\Examenes\integradora\obj\Debug\net10.0\ref\integradora.dll
